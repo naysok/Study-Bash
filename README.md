@@ -25,7 +25,7 @@ Bash と バッチファイル
   - Resize.sh  
 
 - WIN  
-  - JRG
+  - JPG-to-jpg.bat  
 
 
 ### Link  
