@@ -1,4 +1,4 @@
-# Study-Bash  
+# Study-ShellScript  
 
 Bash と バッチファイル  
 
