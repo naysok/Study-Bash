@@ -29,5 +29,5 @@
 
 ### Link  
 
-これとかも気持ちで作っている、  
+これとかも同じような気持ちで作っている、  
 [http://naysok.org/GH/](http://naysok.org/GH/)
